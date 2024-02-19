@@ -16,7 +16,7 @@ sudo apt install ros-<ros2 version>-turtlebot3*
 2. Clone the current repo into a ros2 workspace
 ```
 mkdir -p slam_ws/src && cd slam_ws/src
-git clone https://github.com/liuji1031/slam_ekf_ros2.git
+git clone https://github.com/Humayun-Akhtar/SLAM-EKF-in-ROS2-Framework.git
 cd .. && colcon build
 ```
 3. Run the launch file
